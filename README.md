@@ -10,8 +10,8 @@ SSR是ShadowsocksR协议的缩写，ShadowsocksR是流行的翻墙协议Shadowso
 ## 推荐购买SSR节点 | 2024科学上网机场节点梯子购买
 以下是提供SSR节点和V2ray节点的翻墙机场，使用体验差不多，同时还包括原版SS节点、V2ray节点和Trojan节点机场，排名不分先后。只需要将购买的订阅导入Clash软件中，即可开启魔法上网之旅。为了稳定科学上外网，建议备有多个ssr机场梯子作为备用。
 
-### FJCloud-稳定SSR+V2ray翻墙机场梯子首选
-[**点击直达官网**](https://go.51tz.cc/fjcloud)
+### JFCloud-稳定SSR+V2ray翻墙机场梯子首选
+[**点击直达官网**](https://go.51tz.cc/jfcloud)
 飞机加速器是一家专注于ssr和V2ray翻墙的机场节点服务商。采用国内优质IEPL专线加速，由海外团队运营，使用SSR+V2ray协议。线路节点快速稳定，支持netflix网飞等流媒体解锁，支持流畅访问chatgpt、google、youtube、Github等外网。套餐价格也便宜，一个月只需要9.9，适合追求极致性价比的用户，如外贸工作和程序开发人员。
 
 ### SpeedLink
