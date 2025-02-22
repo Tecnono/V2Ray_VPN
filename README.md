@@ -8,10 +8,10 @@ SSR是ShadowsocksR协议的缩写，ShadowsocksR是流行的翻墙协议Shadowso
 目前不建议自建翻墙节点使用SSR协议，[**翻墙机场**](https://ihaoke.vip/)的线路经过国内服务器中转后，再通过隧道进行加密，所以可使用Shadowsocks、ShadowsocksR、Trojan、V2ray等协议。  
 ![SSR_V2Ray.jpg](https://www.cnvintage.org/assets/files/2024-12-13/1734073392-492583-image.png)
 
-## 推荐购买SSR节点 | 2025科学上网机场节点梯子购买
+## 推荐购买SSR节点|2025科学上网机场节点梯子购买
 以下是提供SSR节点和V2ray节点的翻墙机场，使用体验差不多，同时还包括原版SS节点、V2ray节点和Trojan节点机场，排名不分先后。只需要将购买的订阅导入Clash软件中，即可开启魔法上网之旅。为了稳定科学上外网，建议备有多个ssr机场梯子作为备用。
 
-![erwan](https://github.com/user-attachments/assets/4250ff82-e361-4d2c-b7e6-0551f029e62a)
+![erwan](https://www.cnvintage.org/assets/files/2025-02-22/1740199480-386160-2.jpeg)
 
 
 ### 尔湾云-稳定SSR+V2ray翻墙机场梯子首选
